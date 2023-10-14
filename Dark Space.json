@@ -1,11 +1,11 @@
 {
-  "name": "Timrfye",
-  "description": "Xd?",
+  "name": "Buran Theme",
+  "description": "Made specifically to fuck Matvey's mother, xd",
   "version": "26",
   "authors": [
     {
       "name": "Buran",
-      "id": "563129175678910466"
+      "id": "742853788502720554"
     }
   ],
   "theme_color_map": {
@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://media.discordapp.net/attachments/856818211849109527/1162844677792350268/IMG_7799.png?ex=653d6a7f&is=652af57f&hm=a67b4a368e78e52c54b8cf8c52b8571b8bfca41cacde91f768f5c7eff5d3935b&",
+    "url": "https://imgur.com/a/T53blSB",
     "alpha": 1
   }
 }
