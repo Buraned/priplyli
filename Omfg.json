@@ -1,7 +1,7 @@
 {
-  "name": "MHR",
+  "name": "Ya eblan suka",
   "description": "Made specifically to fuck Matvey's mother",
-  "version": "29.2",
+  "version": "26.2",
   "authors": [
     {
       "name": "Buran",
@@ -42,8 +42,8 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#b8b8b8",
-      "#b8b8b8"
+      "#000001",
+      "#ffffff"
     ],
     "BACKGROUND_SECONDARY": [
       "#0b101a",
@@ -151,7 +151,7 @@
   },
   "background": {
     "blur": 0,
-    "url": "https://imgur.com/a/T53blSB",
+    "url": "https://imgur.com/a/tGPl84U",
     "alpha": 1
   }
 }
