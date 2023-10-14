@@ -1,7 +1,7 @@
 {
-  "name": "Buran",
+  "name": "MHR",
   "description": "Made specifically to fuck Matvey's mother",
-  "version": "27",
+  "version": "29.2",
   "authors": [
     {
       "name": "Buran",
@@ -42,8 +42,8 @@
       "#c7ccd1"
     ],
     "BACKGROUND_PRIMARY": [
-      "#000001",
-      "#ffffff"
+      "#b8b8b8",
+      "#b8b8b8"
     ],
     "BACKGROUND_SECONDARY": [
       "#0b101a",
